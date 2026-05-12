@@ -1,4 +1,4 @@
-# 
+# Enhance ClickUp for Windows with elite ClickUp for Windows Module | gantt-charts + team-assignment, the #1 module. Includes gantt-charts and team-assignment for a smoother and
 
 
 
